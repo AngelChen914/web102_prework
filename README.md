@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='Re_  - 23 March 2025.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='SMC_CodePath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with ...  Loom
+GIF created with ...  Licecap
 
 ## Notes
 
