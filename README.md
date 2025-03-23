@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/3a9a4d796e854fb686136fc8989a7b04?sid=18dcc595-de5e-4e67-b2d6-bf6135e02d86' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 41.66666666666667%; height: 0;"><iframe src="https://www.loom.com/embed/3a9a4d796e854fb686136fc8989a7b04?sid=c3bc841d-af9d-4345-b853-7c74b8912217" title='Video Walkthrough' frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 GIF created with ...  Loom
